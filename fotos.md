@@ -2,10 +2,8 @@
 layout: page
 title: Photos
 permalink: /photos/
-
 ---
 
-<h1>Photo Sets</h1>
 <ul>
   {% comment %}
     Get all "photo_set" pages and display a list with links to them.
