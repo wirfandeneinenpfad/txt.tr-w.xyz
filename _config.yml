@@ -14,15 +14,10 @@ author:
   email:             tillwagner@mailbox.org
   instagram:         wirfandeneinenpfad
 
-#Jekyll-Photo-Gallery Settings
-exiftag:
- sources:
-     - images/photography #Set to location of photos
 
 # Gems
 plugins:
   - jekyll-paginate
-  - gem 'exifr'
 
 # Custom vars
 version:             1.1.0
