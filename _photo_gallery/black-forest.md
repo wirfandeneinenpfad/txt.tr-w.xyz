@@ -1,5 +1,5 @@
 ---
 image_path: /images/photos/berlin-3.jpg
-title: 
+title: asdf 
 weight: 3
 ---
