@@ -4,13 +4,13 @@ title: Photos
 permalink: /photos/
 ---
 
-<ul>
-  {% comment %}
-    Get all "photo_set" pages and display a list with links to them.
-  {% endcomment %}
-  {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
-  {% for photo_page in photo_pages %}
+{% assign sorted_gallery = site.photo_gallery | sort: 'weight' %}
+<ul class="photo-gallery">
+  {% for image in sorted_gallery %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
     </li>
   {% endfor %}
+</ul>
