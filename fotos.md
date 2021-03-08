@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: Photography
 permalink: /photos/
 
 images:
@@ -9,7 +9,7 @@ images:
     - image_path: /images/photos/berlin-2.jpg
     title: blub
 ---
-## Photos
+## Photography
 
 <ul class="photo-gallery">
   {% for image in page.images %}
