@@ -8,7 +8,7 @@ I'm a master's student at the [Center for Research on Antisemitism](https://www.
 [e-mail](tillwagner@mailbox.org) | [instagram](https://www.instagram.com/wirfandeneinenpfad/) | LinkedIn 
 
 ### what about the title?
-> 	"Ich mag die Spiegelung der Luft
+"Ich mag die Spiegelung der Luft
 	Und wenn die Sehnsucht nie verpufft
 	Den Glanz des Lebens in einem Tag
 	Ich mag den Zweifel, der an mir nagt
