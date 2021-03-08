@@ -5,7 +5,7 @@ permalink: /photos/
 ---
 {% assign sorted_gallery = site.photo_gallery | sort: 'weight' %}
 
-<ul class="photo-gallery">
+<ul class="post">
   {% for image in sorted_gallery %}
     <li>
       <a href="{{ image.link }}">
