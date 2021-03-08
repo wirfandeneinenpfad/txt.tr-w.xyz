@@ -23,4 +23,5 @@ plugins:
 google_analytics_id: G-DPLLG4R3WK
 
 collections:
-  photo_gallery
+  - photo_gallery
+
