@@ -2,14 +2,9 @@
 layout: page
 title: Photos
 permalink: /photos/
-
-images: 
- - image_path: /images/photos/berlin-1.jpg
+images:
+	- image_path: /images/photos/berlin-1.jpg
     title: Apple Pie
-  - image_path: /images/photos/berlin-2.jpg
-    title: Birthday Cake
-  - image_path: /images/photos/berlin-3.jpg
-    title: Black Forest
 ---
 <ul class="photo-gallery">
   {% for image in page.images %}
