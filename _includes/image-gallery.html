@@ -44,6 +44,7 @@
 }
 </style>
 
+{% assign sorted_photos = site.photo_gallery | sort: "weight" %}
 <ul class="image-gallery">
   {% for image in site.photo_gallery %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
