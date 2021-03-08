@@ -45,7 +45,7 @@
 </style>
 
 <ul class="image-gallery">
-  {% for image in site._photo_gallery %}
+  {% for image in site.photo_gallery %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
