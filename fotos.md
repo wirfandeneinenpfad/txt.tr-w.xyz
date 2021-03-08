@@ -5,3 +5,4 @@ permalink: /photos/
 ---
 ## Photography
 
+{% include image-gallery.html folder="/images/photos" %}
