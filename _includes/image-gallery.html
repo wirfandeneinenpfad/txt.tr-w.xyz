@@ -13,10 +13,9 @@
 }
 </style>
 
-<main class="grid">
+<ul class="grid">
 {% for image in site.photo_gallery %}
-<li>
-<img src="{{ image.image_path }}" alt="{{ image.title}}>
-	{% endfor %} 
-</li>
-</main> 
+  {% for image in site.photo_gallery %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
