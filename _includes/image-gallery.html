@@ -76,9 +76,9 @@ body {
 }
 </style>
 <section id="photos">
-<ul class="ul">
+<ul>
   {% for image in site.photo_gallery %}
-    <li class="li"><img class="img" src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
 </section>
