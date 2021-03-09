@@ -3,16 +3,11 @@ layout: page
 title: About
 ---
 ### me
-I'm a master's student at the [Center for Research on Antisemitism](https://www.tu-berlin.de/fakultaet_i/zentrum_fuer_antisemitismusforschung/menue/home/) with a background in history and political science. My focus is on the history of ideas of anti-Semitism, Critical Theory and social psychology, and the transformations of racism and anti-Semitism in the Digital Society. Besides that I love photography, literature and am a part-time record collector. At this place I plan to capture some of my finished and unfinished work. 
-### where to find me
-[e-mail](tillwagner@mailbox.org) | [instagram](https://www.instagram.com/wirfandeneinenpfad/) | LinkedIn 
+I'm a master's student at the [Center for Research on Antisemitism](https://www.tu-berlin.de/fakultaet_i/zentrum_fuer_antisemitismusforschung/menue/home/) with a background in history and political science. My focus is on the history of anti-Semitism, on Critical Theory and political philosophy after Auschwitz and on the transformations of racism and anti-Semitism in the Digital Society.
 
-### what about the title?
-*"Ich mag die Spiegelung der Luft
-Und wenn die Sehnsucht nie verpufft
-Den Glanz des Lebens in einem Tag
-Ich mag den Zweifel, der an mir nagt
-Wenn meine Angst mich schnell verlässt
-Ich mag den Tanz, das Idiotenfest
-Wenn wir irren, nachts im Kreis
-Eine Bewegung gegen den Fleiß"*
+Besides that I love photography, literature and am a part-time record collector. 
+At this place I plan to capture some of my finished and unfinished work. 
+
+### where to find me
+[e-mail](tillwagner@mailbox.org) | [instagram](https://www.instagram.com/wirfandeneinenpfad/) 
+
