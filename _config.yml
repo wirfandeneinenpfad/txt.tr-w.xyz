@@ -8,7 +8,6 @@ baseurl:             'www.tr-w.xyz'
 =======
 url:                 https://txt.tr-w.xyz
 baseurl:             ''
->>>>>>> parent of f1db45c (Update _config.yml)
 paginate:            5
 permalink:           pretty
 
