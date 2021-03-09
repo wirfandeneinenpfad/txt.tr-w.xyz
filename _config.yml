@@ -2,10 +2,6 @@
 title:               Ramblings & Reflections
 tagline:             'Blog von Till Wagner'
 description:         ''
-<<<<<<< HEAD
-url:                 www.tr-w.xyz
-baseurl:             ''
-=======
 url:                 https://txt.tr-w.xyz
 baseurl:             ''
 paginate:            5
@@ -28,4 +24,7 @@ google_analytics_id: G-DPLLG4R3WK
 
 collections:
   - photo_gallery
+
+# Setup
+
 
