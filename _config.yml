@@ -3,7 +3,7 @@ title:               Ramblings & Reflections
 tagline:             'Blog von Till Wagner'
 description:         ''
 url:                 www.tr-w.xyz
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
