@@ -4,7 +4,7 @@ tagline:             'Blog von Till Wagner'
 description:         ''
 <<<<<<< HEAD
 url:                 www.tr-w.xyz
-baseurl:             'www.tr-w.xyz'
+baseurl:             ''
 =======
 url:                 https://txt.tr-w.xyz
 baseurl:             ''
