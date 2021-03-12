@@ -5,6 +5,7 @@ description:         ''
 url:                 https://www.tr-w.xyz
 baseurl:             ''
 paginate:            5
+paginate_path:       "/photos/page:num/"
 permalink:           pretty
 
 # About/contact
