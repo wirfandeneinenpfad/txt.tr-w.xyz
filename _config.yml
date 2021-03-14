@@ -18,8 +18,6 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
-  - jekyll-analytics
-
 
 # Custom vars
 google_analytics_id: G-DPLLG4R3WK
@@ -27,10 +25,7 @@ google_analytics_id: G-DPLLG4R3WK
 collections:
   - photo_gallery
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-DPLLG4R3WK         # Required - replace with your tracking id
-    anonymizeIp: false  
+ 
 
 
 
