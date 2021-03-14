@@ -20,7 +20,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-google_analytics_id: G-DPLLG4R3WK
+google_analytics_id: G-YCDRXD75QG
 
 collections:
   - photo_gallery
