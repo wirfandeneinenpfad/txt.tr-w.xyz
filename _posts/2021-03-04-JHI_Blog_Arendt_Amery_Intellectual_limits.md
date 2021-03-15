@@ -3,6 +3,7 @@ layout: post
 title: "The public intellecutal in the eyes of Hannah Arendt and Jean Améry (working title)"
 categories: misc
 ---
+*A slightly modified and abridged version of this text appeared [on the Journal of the History of Ideas blog](https://jhiblog.org/2021/03/15/arendt-amery-and-the-public-intellectual/) on 3/15/2021.*
 
 ## *The public intellectual as a contested figure*
 
