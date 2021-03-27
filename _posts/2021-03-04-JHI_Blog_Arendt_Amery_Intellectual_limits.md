@@ -8,21 +8,10 @@ categories: misc
 ## *The public intellectual as a contested figure*
 
 The position of the public intellecutal is a contested one. On the one
-hand they play a big role in the deliberation of societal und poltical
-affairs; on the other hand there\'s a persistent skepticism towards the
-intellectual view of the current which stems from a widely accepted
-sentiment, that there\'s a inherent disconnect from reality in
-intellcetual debates, that they represent the observation down from the
-"ivory tower". On the right side of the political spectrum this
-contesdeness manifests itself in accusations against intellectuals of
-maintaining an elitist, biased and unrealistic view on socienty and
-currant affairs. This kind of populist anti-Intellecutalism is not only
-a phenomenon of recent political developments: Theodor W. Adorno noted
-already in his 1967 lecture \"Aspekte des neuen Rechtsradikalismus\"
-("Aspects of Contemporary Right-Wing Radicalism") what central role
-Anti-Intellectualism plays in right wing ideology. Adorno explains this
-distrust and hostility in terms of an ideology, which views the
-intellectual
+hand they play a significant role in the deliberation of social und poltical
+affairs; on the other hand, there\'s a persistent skepticism toward their perception of the present, based on the widely held sentiment that it is inherently disconnected from reality—that, in short, it is nothing more than an observation from the top of the “ivory tower.”.In right-wing attacks against intellectuals, the latter are accused of representing an elitist, biased, and ultimately unrealistic view of society and current affairs. 
+
+This populist anti-intellectualism is by no means of recent origin: Already in his 1967 lecture [“Aspekte des neuen Rechtsradikalismus”](https://www.youtube.com/watch?v=wnZWobxWo90) ([“Aspects of Contemporary Right-Wing Radicalism”](https://www.wiley.com/en-us/Aspects+of+the+New+Right+Wing+Extremism-p-9781509541447)), Theodor W. Adorno noted the central role of anti-intellectualism in right-wing ideology. Hinting at its structural similarity to antisemitism, Adorno considered anti-intellectualism an ideology that perceives the intellectual
 
 > \"as a kind of vagrant in life, an 'air person' \[\...\]. According to
 > this ideology, whoever does not participate in the division of labour,
@@ -31,15 +20,7 @@ intellectual
 > freedom of spirit, this person is a kind of rascal who needs to be
 > brought into line.\"[^1]
 
-The loud and undifferentiated attacks on intellectual thinking from the
-right and populist fringes, which until today feed into attacks on
-academia, science and the press, at times obscure the fact that
-self-critical reflection is an integral part of intellectualism itself.
-With this in mind we in the following turn to a strain of critique of
-the intellecutal and his or her position in society, which doesn\'t stem
-from ressentiment, but from the retrospective view of the rise of
-National Socialism and the passivity of some of the times most
-influental intellectuals.
+Such undifferentiated populist and right-wing ressentiment against intellectuals, which presents one current in the ongoing attacks on academia, science, and the press, at times obscures the fact that self-critical reflection is an integral part of intellectualism itself. This is discernible in both Jean Améry’s and Hannah Arendt’s retrospective analyses of the rise of National Socialism and their critique of the passivity exhibited by some of the time’s most influential intellectuals. Not only do their respective reflections about said passivity and its causes give insight into their philosophy, but they also resonate [in the crisis-ridden present in which the value of humanistic thinking may altogether appear questionable](https://www.newyorker.com/culture/annals-of-inquiry/what-do-the-humanities-do-in-a-crisis).
 
 ## *A similar critique? Hannah Arendt on Stefan Zweig and Jean Améry on Romain Rolland*
 
