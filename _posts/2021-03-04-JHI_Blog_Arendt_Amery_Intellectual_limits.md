@@ -24,19 +24,7 @@ Such undifferentiated populist and right-wing ressentiment against intellectuals
 
 ## *A similar critique? Hannah Arendt on Stefan Zweig and Jean Améry on Romain Rolland*
 
-The biographies of Hannah Arendt and Jean Améry show significant
-parallels: Both were born before the end of the First World War, both
-fled from National Socialism, both attempted political resistance in
-some form, both were interned in the camp Gurs for a while, both dealt
-intellectually with their experiences after the war. When shifting the
-view away from their biographies and towards their body of work, sharp
-contrasts appear: Améry was very critical of Arendt\'s concept of a
-\"banality of evil\", which she famously developed in [her book about
-the Eichmann-trial in
-Jerusalem](https://books.google.de/books/about/Eichmann_in_Jerusalem.html?id=jsDtAAAAMAAJ&redir_esc=y).
-Nonetheless there\'s a distinct parallel and similartiy in argumentation
-between two essays of both thinkers which were published about 30 years
-apart:
+The biographies of Arendt and Améry show significant parallels: Both were born before the First World War ended, both had to flee National Socialism, both attempted political resistance in some form, both were interned in the camp at Gurs for a while, and both made their experiences an object of their intellectual reflection after the war. Though their respective philosophies are marked by at times sharp contrasts—Améry, for instance, was very critical of Arendt’s concept of a “banality of evil,” which the latter famously developed in [her book about the Eichmann-trial in Jerusalem](https://books.google.de/books/about/Eichmann_in_Jerusalem.html?id=jsDtAAAAMAAJ&redir_esc=y)—there are definitive parallels in the critical, intellectual self-reflections they developed in two essays, despite those essays being published more than thirty years apart:
 
 In [\"Portrait of a
 Period\"](https://hannah-arendt-edition.net/vol_text.html?id=/3p_III-009-PortraitPeriodMenorah.xml&lang=de)
