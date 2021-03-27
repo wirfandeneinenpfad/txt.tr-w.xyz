@@ -26,17 +26,7 @@ Such undifferentiated populist and right-wing ressentiment against intellectuals
 
 The biographies of Arendt and Améry show significant parallels: Both were born before the First World War ended, both had to flee National Socialism, both attempted political resistance in some form, both were interned in the camp at Gurs for a while, and both made their experiences an object of their intellectual reflection after the war. Though their respective philosophies are marked by at times sharp contrasts—Améry, for instance, was very critical of Arendt’s concept of a “banality of evil,” which the latter famously developed in [her book about the Eichmann-trial in Jerusalem](https://books.google.de/books/about/Eichmann_in_Jerusalem.html?id=jsDtAAAAMAAJ&redir_esc=y)—there are definitive parallels in the critical, intellectual self-reflections they developed in two essays, despite those essays being published more than thirty years apart:
 
-In [\"Portrait of a
-Period\"](https://hannah-arendt-edition.net/vol_text.html?id=/3p_III-009-PortraitPeriodMenorah.xml&lang=de)
-Arendt lays out a critical review of Stefan Zweig\'s [\"The World of
-Yesterday\"](https://books.google.de/books?id=YrJjc9KADLwC&printsec=frontcover&dq=stefan+zweig+the+world+of+yesterday&hl=en&sa=X&ved=2ahUKEwjXnNWws5bvAhWODuwKHQgGBfoQ6AEwAHoECAIQAg#v=onepage&q=stefan%20zweig%20the%20world%20of%20yesterday&f=false).
-To Arendt, Zweig\'s nostalgic -- and in the light of Zweig\'s suicide in
-1942, quite tragic -- autobiography is the manifest of a humanistic, but
-in the end apolitical thinker, who was so entrenched in his social
-circle of fame and culture, that he made himself comfortable in a world
-which provided emancipation only to the famous and thus experienced the
-rise of National Socialism in Europe not as a historic and societal
-development, but as a natural catastrophe.
+Arendt’s “[Portrait of a Period](https://hannah-arendt-edition.net/vol_text.html?id=/3p_III-009-PortraitPeriodMenorah.xml&lang=de)” (1943) is a critical review of Stefan Zweig’s memoir [The World of Yesterday](https://books.google.de/books?id=YrJjc9KADLwC&printsec=frontcover&dq=stefan+zweig+the+world+of+yesterday&hl=en&sa=X&ved=2ahUKEwjXnNWws5bvAhWODuwKHQgGBfoQ6AEwAHoECAIQAg#v=onepage&q=stefan%20zweig%20the%20world%20of%20yesterday&f=false), an account of the personal and artistic path of the Austrian novelist, journalist, and playwright, and a depiction of prewar Austria-Hungary and Europe from Zweig’s own perspective. To Arendt, Zweig’s nostalgic—and, in light of Zweig’s suicide in 1942, quite tragic—autobiography is the manifest of a humanistic but in the end apolitical thinker, who was so entrenched in his own social circle that he made himself at home in a world that provided emancipation only to the famous. According to Arendt, Zweig thus experienced the rise of National Socialism in Europe not as a historical and hence inherently political and societal development, but rather as a natural catastrophe.
 
 A relatively similar sentiment is formulated in Jean Amérys \"Von der
 Verwundbarkeit des Humanismus\" (\"On the vulnerability of humanism\"),
@@ -128,18 +118,7 @@ denial of a forced upon identity led by the desire to fit in, but the
 model of humanism advocated by Romain itsself, which is the object of
 critique in Améry\'s essay.
 
-Jean Améry, who was born as Hanns Chaim Mayer in Austria and in his
-youth felt at home in his rural surroundings, correspondingly in his
-young years was drawn to the philosophy of German existentialism, rooted
-in nature and the yearn for a supposed authenticity. In his
-autobiograpically inspired \"[Unmeisterliche
-Wanderjahre](https://www.klett-cotta.de/buch/Améry/Unmeisterliche_Wanderjahre/4590)\"
-(\"Unmasterly wandering years\"), Améry looks back on both this youthful
-affection and his following enthusiasm for the Logical Empiricism of the
-Wiener Kreis as subordinations under differently concepted, but both in
-their own way delusonary systems of thougt: neither of them take the
-reality of society or history into account in their understanding of the
-world.
+Born as Hanns Chaim Mayer in Austria, Améry felt at home in both the rural area of the Salzkammergut and existential philosophy with its focus on nature and its yearning for authenticity throughout his youth. In his autobiographically inspired essay collection [Unmeisterliche Wanderjahre](https://www.klett-cotta.de/buch/Am%C3%A9ry/Unmeisterliche_Wanderjahre/4590) (“Unmasterly wandering years”), Améry looks back on this youthful affection and his following enthusiasm for the Logical Empiricism of the Wiener Kreis as submissions under different systems of thought that nevertheless proved delusional in their own ways: neither one of the two, Améry argues, takes the reality of society or history into account when formulating a comprehensive understanding of the world.
 
 This self-critical retrospection is strongly informed by Améry's
 experience of being persecuted, tortured and interned in different
@@ -154,27 +133,11 @@ lucky enough to survive was \"to bring about this philosophical
 disillusionment, for which other, perhabs ifinitely more gifted and
 penetrating minds must struggle a lifetime.\"[^6]
 
-The perspective from his subjective experience of suffering shapes a lot
-of Amérys essayistic writing and is fundamental for his sharp, concise
-and sometimes painfully honest observations. It is this perspective and
-the experience of \"philosophical dillusionment\" -- the realization,
-that intellectual thought has to have a correspondance with (social)
-reality to be meaningful -- that shape not only Amérys retrospective
-assessment of his early philosophical leanings, but also his critique of
-\"vulnerable humanism\": humanistic intellectualism which is constrained
-in its own system of thought to Améry always is a contradiction to an
-active and political meaningful stance towards the world. This is the
-basis from which Amérys critizises the dreamy and hopeful worldview of
-Rolland which becomes apparent in his \"Jean-Christophe\" -- which to
-Améry amounts to a denial of reality, which in the end undermines
-Rollands humanistic intentions.
+A subjective experience of suffering is central to Améry’s essayistic writing and foundational for his sharp, concise, and sometimes painfully honest observations. Indeed, it is the experience of a “philosophical disillusionment”—the realization, that thought must correspond to (social) reality in order to be meaningful—that shaped not only his retrospective assessment of his own early philosophical leanings, but also his critique of “vulnerable humanism.” For Améry, a humanistic intellectualism that is constrained by its own system of thought ultimately inhibits an active and politically meaningful stance toward the world. This insight is the basis from which Améry criticizes the dreamy and hopeful worldview of Rolland’s *Jean-Christophe*, which in his eyes amounts to a denial of reality and effectively undermines Rolland’s humanistic intentions.
 
 ## *The challenge of a undistorted view: Echoes of differently rooted critiques of intellecutal ideology*
 
-It is no surprise -- considering their biographies -- that both Arendt
-as Améry underline the importance of critical intellecutal thought as a
-cautious observer of society and politics. Out of this shared awareness
-both warn of the pitfalls inherent in a self-isolating intellectualism.
+Considering their similar biographies, it comes at no surprise, then, that both Arendt and Améry emphasize the importance of the critical intellectual as a cautious observer of society and politics. Precisely because of this shared, historically conditioned awareness, both warn of the pitfalls inherent in a self-isolating intellectualism.
 
 Yet when contextualized with the respective body of work, the seemingliy
 similar positions point to their respective theoretical underpinning and
