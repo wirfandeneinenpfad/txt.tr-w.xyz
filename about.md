@@ -9,5 +9,5 @@ Besides that I love photography, literature and am a part-time record collector.
 At this place I plan to capture some of my finished and unfinished work. 
 
 ### where to find me
-[e-mail](tillwagner@mailbox.org) | [instagram](https://www.instagram.com/wirfandeneinenpfad/) 
+[e-mail](tillwagner@mailbox.org) | [instagram](https://www.instagram.com/wirfandeneinenpfad/) | [twitter](https://twitter.com/trw44484090)
 
