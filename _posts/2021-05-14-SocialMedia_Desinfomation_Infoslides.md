@@ -109,7 +109,7 @@ nicht etwa den Zweck die Situation zu erklären -- was sie in anbetracht
 des minimalen Kontextes, der um sie herum mitgeliefert wird, auch kaum
 könnten. Sie verdeutlich stattdessen, ähnlich wie die suggestiv
 eingesetzten Fotografien und Videoaufnahmen, symbolisch welche Seite die
-richte und welche die falsche ist, kurz: welche Haltung die
+richtige und welche die falsche ist, kurz: welche Haltung die
 Konsument\*innen einzunehmen haben. Dem Motto \"*silence is violence*\",
 welches im Rahmen der weltweiten Proteste aufgrund der Ermordung George
 Floyds durch einen Polizisten im Mai 2020 Verwendung fand, folgend, ist
