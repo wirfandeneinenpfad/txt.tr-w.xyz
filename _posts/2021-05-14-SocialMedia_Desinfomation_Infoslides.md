@@ -4,8 +4,6 @@ title: "„Infoslides" und Antisemitismus: Gedanken zu Dynamiken von Desinformat
 categories: misc
 ---
 
-# „Infoslides" und Antisemitismus: Gedanken zu Dynamiken von Desinformation und Reduktionismus in den Sozialen Medien 
-
 Ich folge in den Sozialen Medien vielen Künstler\*innen, Autor\*innen,
 Musiker\*inne und Fotograf\*innen. Sie machen -- nicht zuletzt weil der
 Großteil meiner Freund\*innen in den Sozialen Medien nur mäßig aktiv ist
