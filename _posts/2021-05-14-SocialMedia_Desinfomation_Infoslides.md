@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "„Infoslides" und Antisemitismus: Gedanken zu Dynamiken von Desinformation und Reduktionismus in den Sozialen Medien"
+title: "'Infoslides' und Antisemitismus: Gedanken zu Dynamiken von Desinformation und Reduktionismus in den Sozialen Medien"
 categories: misc
 ---
 
