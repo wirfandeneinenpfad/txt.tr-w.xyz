@@ -101,6 +101,7 @@ Haltung lässt und sich inhaltlich ideal in die Formvorgaben der
 entsprechenden Plattformen einfügt, verbindet sich fast synergetisch mit
 einer in Spielarten des gegenwärtigen Antirassismus verbreiteten
 Haltung, die die eigene Positionierung über Inhalte und Analyse stellt.
+
 Begriffe wie \"*ethnic cleansing*\", \"*military occupation*\",
 \"*apartheid*\", \"*colonialism*\", \"*intersectional solidarity*\" und
 \"*institutionalized violence*\" tauchen vielfach in den kursierenden
