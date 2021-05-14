@@ -17,7 +17,7 @@ solche Künstler\*innen, die sich selbst als politisch und progressiv
 erachten, solidarisieren sich auf eine Art und Weise mit der
 palästinensischen Seite, die in ihrer Vehemenz und Klarheit erstaunt.
 Dabei erinnert die Form der Solidarität an Kampagnen in den Sozialen
-Medien aus der Vergangenheit, wie [[die aufgrund ihres Reduktionsimus
+Medien aus der Vergangenheit, wie [die aufgrund ihres Reduktionsimus
 und ihrer Einseitigkeit kritisierten Aktion \"Dj\'s for
 Palestine\"](https://jungle.world/artikel/2020/38/boykott-aus-dem-heizungskeller).
 
