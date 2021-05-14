@@ -37,11 +37,11 @@ Nun ist es allgemein fraglich, ob der manichäische Dichotomismus
 Unterdrücker vs. Unterdrückte zur Erklärung von Konflikten, die sich vor
 einem gesellschaftlichen, politischen und historischem Hintergrund
 entfalten, hinreichende Erklärung sein kann. Es gibt Fälle, in denen er
-einleuchtet: [[Wenn Angehörige einer islamistischen Terrororganisation
+einleuchtet: [Wenn Angehörige einer islamistischen Terrororganisation
 eine Schule in Kabul als Anschlagsziel wählen und für über 50 Todesopfer
 sorgen](https://www.tagesschau.de/ausland/asien/afghanistan-anschlag-schule-101.html),
 scheint die Verteilung von Schuld und Verantwortung sehr klar zu
-sein. [Wenn die myanmarischen Streitkräfte gegen das Erbenis einer
+sein. [Wenn die myanmarischen Streitkräfte gegen das Ergebnis einer
 demokratischen Wahl putschen und bei der Niederschlagung von Protesten
 eine Vielzahl von Todesopfern und Verletzten in Kauf
 nehmen](https://www.tagesschau.de/ausland/myanmar-485.html), wäre
@@ -110,7 +110,7 @@ nicht etwa den Zweck die Situation zu erklären -- was sie in anbetracht
 des minimalen Kontextes, der um sie herum mitgeliefert wird, auch kaum
 könnten. Sie verdeutlich stattdessen, ähnlich wie die suggestiv
 eingesetzten Fotografien und Videoaufnahmen, symbolisch welche Seite die
-richte und welche die falsche ist, kurz: welche Haltung die
+richtige und welche die falsche ist, kurz: welche Haltung die
 Konsument\*innen einzunehmen haben. Dem Motto \"*silence is violence*\",
 welches im Rahmen der weltweiten Proteste aufgrund der Ermordung George
 Floyds durch einen Polizisten im Mai 2020 Verwendung fand, folgend, ist
