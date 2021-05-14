@@ -31,8 +31,8 @@ gezeichnete Unterhaltung zwischen zwei Frauen wiedergeben, wobei die
 eine der anderen den Konflikt erklärt. Ob es sich denn nicht nur um
 einen religiöse motivierten Konflikt handeln würde? Nein, dem ist nicht
 so, erklärt die andere Frau. Ihre erklärenden Worte verdichten sich auf
-die für jeden leicht verständliche Zuspitzung \"Israelis are the
-oppressors and palestinians are the oppressed\".
+die für jeden leicht verständliche Zuspitzung \"*Israelis are the
+oppressors and palestinians are the oppressed*\".
 
 Nun ist es allgemein fraglich, ob der manichäische Dichotomismus
 Unterdrücker vs. Unterdrückte zur Erklärung von Konflikten, die sich vor
