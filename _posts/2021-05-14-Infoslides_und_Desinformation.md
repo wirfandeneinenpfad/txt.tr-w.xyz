@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "'Infoslides' und Antisemitismus: Gedanken zu Dynamiken von Desinformation und Reduktionismus in den Sozialen Medien"
-categories: misc
 ---
 
 Ich folge in den Sozialen Medien vielen Künstler\*innen, Autor\*innen,
