@@ -49,7 +49,7 @@ die Einteilung in unterdrückt und unterdrückend ebenfalls eine legitime
 und zutreffende Beschreibung der Realität. Dass sich in den Sozialen
 Medien allerdings vermeintliche Erklärungen des gegenwärtigen
 israelisch-palästinensischen Konfliktes, die auf diese radikale
-Dichotomisirung zurückgreifen, massenhaft verbreiten, scheint auf
+Dichotomisierung zurückgreifen, massenhaft verbreiten, scheint auf
 psychologischer und kognitiver Ebene erklärungsbedürftig -- beschießen
 doch die militärischen Kräfte der Hamas, welche die Beseitigung Israels
 und die Errichtung eines antidemokratischen und islamistischen Staates
