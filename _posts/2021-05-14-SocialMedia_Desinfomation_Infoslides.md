@@ -6,7 +6,7 @@ categories: misc
 
 # „Infoslides" und Antisemitismus: Gedanken zu Dynamiken von Desinformation und Reduktionismus in den Sozialen Medien 
 
-Ich folge auf den Sozialen Medien vielen Künstler\*innen, Autor\*innen,
+Ich folge in den Sozialen Medien vielen Künstler\*innen, Autor\*innen,
 Musiker\*inne und Fotograf\*innen. Sie machen -- nicht zuletzt weil der
 Großteil meiner Freund\*innen in den Sozialen Medien nur mäßig aktiv ist
 -- den Großteil der Inhalte aus, welche ich auf Instagram und Facebook
@@ -21,7 +21,7 @@ palästinensischen Seite, die in ihrer Vehemenz und Klarheit erstaunt.
 Dabei erinnert die Form der Solidarität an Kampagnen in den Sozialen
 Medien aus der Vergangenheit, wie [[die aufgrund ihres Reduktionsimus
 und ihrer Einseitigkeit kritisierten Aktion \"Dj\'s for
-Palestine\"]{.ul}](https://jungle.world/artikel/2020/38/boykott-aus-dem-heizungskeller).
+Palestine\"](https://jungle.world/artikel/2020/38/boykott-aus-dem-heizungskeller).
 
 Für diese also nicht ganz so neue Weise eine vermeintlich kritische
 Haltung auf der eigenen Social Media-Präsenz zu repräsentieren sind
@@ -42,12 +42,12 @@ einem gesellschaftlichen, politischen und historischem Hintergrund
 entfalten, hinreichende Erklärung sein kann. Es gibt Fälle, in denen er
 einleuchtet: [[Wenn Angehörige einer islamistischen Terrororganisation
 eine Schule in Kabul als Anschlagsziel wählen und für über 50 Todesopfer
-sorgen]{.ul}](https://www.tagesschau.de/ausland/asien/afghanistan-anschlag-schule-101.html),
+sorgen](https://www.tagesschau.de/ausland/asien/afghanistan-anschlag-schule-101.html),
 scheint die Verteilung von Schuld und Verantwortung sehr klar zu
 sein. [[Wenn die myanmarischen Streitkräfte gegen das Erbenis einer
 demokratischen Wahl putschen und bei der Niederschlagung von Protesten
 eine Vielzahl von Todesopfern und Verletzten in Kauf
-nehmen]{.ul}](https://www.tagesschau.de/ausland/myanmar-485.html), wäre
+nehmen](https://www.tagesschau.de/ausland/myanmar-485.html), wäre
 die Einteilung in unterdrückt und unterdrückend ebenfalls eine legitime
 und zutreffende Beschreibung der Realität. Dass sich in den Sozialen
 Medien allerdings vermeintliche Erklärungen des gegenwärtigen
@@ -104,16 +104,16 @@ Haltung lässt und sich inhaltlich ideal in die Formvorgaben der
 entsprechenden Plattformen einfügt, verbindet sich fast synergetisch mit
 einer in Spielarten des gegenwärtigen Antirassismus verbreiteten
 Haltung, die die eigene Positionierung über Inhalte und Analyse stellt.
-Begriffe wie \"ethnic cleansing\", \"military occupation\",
-\"apartheid\", \"colonialism\", \"intersectional solidarity\" und
-\"institutionalized violence\" tauchen vielfach in den kursierenden
+Begriffe wie \"*ethnic cleansing*\", \"*military occupation*\",
+\"*apartheid*\", \"*colonialism*\", \"*intersectional solidarity*\" und
+\"*institutionalized violence*\" tauchen vielfach in den kursierenden
 \"Infoslides\" auf, oft gesondert hervorgehoben. Sie erfüllen dabei
 nicht etwa den Zweck die Situation zu erklären -- was sie in anbetracht
 des minimalen Kontextes, der um sie herum mitgeliefert wird, auch kaum
 könnten. Sie verdeutlich stattdessen, ähnlich wie die suggestiv
 eingesetzten Fotografien und Videoaufnahmen, symbolisch welche Seite die
 richte und welche die falsche ist, kurz: welche Haltung die
-Konsument\*innen einzunehmen haben. Dem Motto \"silence is violence\",
+Konsument\*innen einzunehmen haben. Dem Motto \"*silence is violence*\",
 welches im Rahmen der weltweiten Proteste aufgrund der Ermordung George
 Floyds durch einen Polizisten im Mai 2020 Verwendung fand, folgend, ist
 die logische und moralische Konsequenz aus der Eindeutigkeit, die sich
