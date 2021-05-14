@@ -42,7 +42,7 @@ einleuchtet: [[Wenn Angehörige einer islamistischen Terrororganisation
 eine Schule in Kabul als Anschlagsziel wählen und für über 50 Todesopfer
 sorgen](https://www.tagesschau.de/ausland/asien/afghanistan-anschlag-schule-101.html),
 scheint die Verteilung von Schuld und Verantwortung sehr klar zu
-sein. [[Wenn die myanmarischen Streitkräfte gegen das Erbenis einer
+sein. [Wenn die myanmarischen Streitkräfte gegen das Erbenis einer
 demokratischen Wahl putschen und bei der Niederschlagung von Protesten
 eine Vielzahl von Todesopfern und Verletzten in Kauf
 nehmen](https://www.tagesschau.de/ausland/myanmar-485.html), wäre
