@@ -117,7 +117,7 @@ Floyds durch einen Polizisten im Mai 2020 Verwendung fand, folgend, ist
 die logische und moralische Konsequenz aus der Eindeutigkeit, die sich
 den Konsument\*innen in der Form solcher \"Infoslides\" darstellt, das
 Teilen ebendieser im eigenen Profil. Diese Dynamik beschleunigt die
-Ausbreitung der -- in diesem Fall antisemitischen -- Inhalte, weil sie
+Ausbreitung der -- in diesem Fall antisemitischen -- Inhalte, weil
 sie seitens der Konsument\*innen, wie Flusser beschreibt, vom reflexiven
 Denken entlastet, die \"richtige\" Haltung mitliefert und teilweise in
 Form von scheinbaren Informationen eine Legitimation für den eigenen
