@@ -89,7 +89,7 @@ eigenen Augen auf dem Bild, wie der Krieg aussieht*.\" Der Mechanismus
 der Vereindeutigung und Abwehr von Reflexion -- des Herstellens von
 Sachverhalten aus mehrdimensionalen und vielschichtigen Situationen --
 findet sich im Teilen von \"Infoslides\" sowohl in deren Einbettung
-zwischen Bildern des Leides aus dem Krisengebiet wieder, welche in ihrer
+zwischen Bildern des Leids aus dem Krisengebiet wieder, welche in ihrer
 Gegenbüberstellung von modernem israelischen Kriegsgerät und
 steinewerfenden palästinensischen Jugendlichen jeglichen kritischen
 Reflex abtöten, als auch in der bildhaften Sprache des Unterdrückenden
