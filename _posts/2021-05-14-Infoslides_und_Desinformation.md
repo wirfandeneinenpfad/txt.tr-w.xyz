@@ -4,7 +4,7 @@ title: "'Infoslides' und Antisemitismus: Gedanken zu Dynamiken von Desinformatio
 ---
 
 Ich folge in den Sozialen Medien vielen Künstler\*innen, Autor\*innen,
-Musiker\*inne und Fotograf\*innen. Sie machen -- nicht zuletzt weil der
+Musiker\*innen und Fotograf\*innen. Sie machen -- nicht zuletzt weil der
 Großteil meiner Freund\*innen in den Sozialen Medien nur mäßig aktiv ist
 -- den Großteil der Inhalte aus, welche ich auf Instagram und Facebook
 konsumiere. In der Folge des zunehmend gewalttätig eskalierenden
