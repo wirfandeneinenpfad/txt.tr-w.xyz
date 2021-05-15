@@ -108,7 +108,7 @@ Begriffe wie \"*ethnic cleansing*\", \"*military occupation*\",
 \"Infoslides\" auf, oft gesondert hervorgehoben. Sie erfüllen dabei
 nicht etwa den Zweck die Situation zu erklären -- was sie in anbetracht
 des minimalen Kontextes, der um sie herum mitgeliefert wird, auch kaum
-könnten. Sie verdeutlich stattdessen, ähnlich wie die suggestiv
+könnten. Sie verdeutlichen stattdessen, ähnlich wie die suggestiv
 eingesetzten Fotografien und Videoaufnahmen, symbolisch welche Seite die
 richtige und welche die falsche ist, kurz: welche Haltung die
 Konsument\*innen einzunehmen haben. Dem Motto \"*silence is violence*\",
@@ -118,7 +118,7 @@ die logische und moralische Konsequenz aus der Eindeutigkeit, die sich
 den Konsument\*innen in der Form solcher \"Infoslides\" darstellt, das
 Teilen ebendieser im eigenen Profil. Diese Dynamik beschleunigt die
 Ausbreitung der -- in diesem Fall antisemitischen -- Inhalte, weil sie
-Sie seitens der Konsument\*innen, wie Flusser beschreibt, vom reflexiven
+sie seitens der Konsument\*innen, wie Flusser beschreibt, vom reflexiven
 Denken entlastet, die \"richtige\" Haltung mitliefert und teilweise in
 Form von scheinbaren Informationen eine Legitimation für den eigenen
 latenten Antisemitismus, der nun nicht nur geäußert werden darf, sondern
